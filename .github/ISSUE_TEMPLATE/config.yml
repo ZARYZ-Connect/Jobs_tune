@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: JOBS_TUNE Community Support
+    url: https://github.com/JOBS_TUNE-opensource/JOBS_TUNE/discussions
+    about: Ask questions or discuss features here
+  - name: Documentation
+    url: https://JOBS_TUNE-opensource.github.io/JOBS_TUNE-docs/
+    about: Check the official JOBS_TUNE documentation
